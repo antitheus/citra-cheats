@@ -1,1 +1,1 @@
-# Citra-Cheats
+# citra_cheats
