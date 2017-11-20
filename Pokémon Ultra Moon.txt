@@ -42,7 +42,7 @@ D3000000 00000000
 [No Outlines - Not Tested]
 0042E2B8 E320F000
 
-[Walk & Run Speed Multiplier]
+[Walk & Run Speed Multiplier - Broken]
 x0.5: 3F00
 x1: 3F80
 x1.5: 3FC0
