@@ -130,7 +130,7 @@ D2000000 00000000
 [Able to rename Outsider Pokemon in Name Rater]
 004C527C E3A00001
 
-[Receive Egg from Daycare v1.0]
+[Receive Egg from Daycare]
 1045AAD4 00001001
 1045AAD6 0000E3A0
 1045AAD8 000011E0
