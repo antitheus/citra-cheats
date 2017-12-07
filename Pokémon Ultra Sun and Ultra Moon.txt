@@ -1,4 +1,4 @@
-[Catch Trainer's Pokemon - Ultra Moon]
+[Catch Trainer's Pokemon - Ultra Moon (CRASH)]
 105B9E60 00004000
 105B9E62 0000E1A0
 105B9E64 00004003
@@ -110,7 +110,7 @@ x2: 4000
 x2.5: 4020
 003A9A60 XXXX0000
 
-[No Outlines - Not Tested]
+[No Outlines]
 0042E2B8 E320F000
 
 [Skip Photo Club]
