@@ -17,8 +17,8 @@
 0844838C 05F5E0FF
 08A49108 05F5E0FF
 
-[Mii 1 Level Modifier (XX: Money)]
+[Mii 1 Level Modifier (XX: Level)]
 08866473 000000XX
 
-[Mii 1 Stomach Modifier (XX: Money)]
+[Mii 1 Stomach Modifier (XX: Value)]
 088667E3 000000XX
