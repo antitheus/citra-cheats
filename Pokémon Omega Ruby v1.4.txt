@@ -1,8 +1,0 @@
-[First Item x999]
-08C6EC72 000003E7
-
-[First Medicine x999]
-08C6F5E2 000003E7
-
-[First Berry x999]
-08C6F6E2 000003E7
