@@ -1,5 +1,5 @@
-[Item Modifier (English) (XXXX: ID, YY: Amount)]
-08865E42 000000YY
+[Item Modifier (XXXX: ID, YY: Amount)]
+0886XXXX 000000YY
 
 [Money Modifier (English) (XXXXXXX: Money)]
 0821DC64 0XXXXXXX
