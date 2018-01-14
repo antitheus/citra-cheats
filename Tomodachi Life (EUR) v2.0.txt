@@ -6,3 +6,8 @@
 [Escargot Cant. Modifier]
 0821DC70 000000XX
 08865DA2 000000XX
+
+-- Interiors ---
+[Cinema Cant. Modifier]
+0821DC70 000000XX
+08865D2E 000000XX
