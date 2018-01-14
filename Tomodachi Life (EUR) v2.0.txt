@@ -1,0 +1,7 @@
+[Chili prawns Cant. Modifier]
+0821DC70 000000XX
+08865DBB 000000XX
+
+[Escargot Cant. Modifier]
+0821DC70 000000XX
+08865DA2 000000XX
