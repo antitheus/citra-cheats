@@ -1,5 +1,0 @@
-[Small Exporb x99]
-0081BCF8 00000063
-
-[Staminum x99]
-0922D7E0 00000063
