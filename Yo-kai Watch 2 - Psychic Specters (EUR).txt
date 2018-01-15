@@ -1,0 +1,5 @@
+[Infinite Money]
+08EEEBE0 000F423F
+
+[Infinite Crank-a-Kai Spins]
+08EF2C04 00000063
