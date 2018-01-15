@@ -1,0 +1,5 @@
+[Healing Fruit x99]
+00617098 00000063
+
+[Vulnerary (Small) x99]
+00617070 00000063
