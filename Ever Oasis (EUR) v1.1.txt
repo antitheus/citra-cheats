@@ -3,3 +3,9 @@
 
 [Vulnerary (Small) x99]
 00617070 00000063
+
+[Roseberry x99]
+006160A8 00000063
+
+[Fruit Shop Item 1 x99]
+005E9666 00000063
