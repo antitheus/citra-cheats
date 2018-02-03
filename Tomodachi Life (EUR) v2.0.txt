@@ -1,4 +1,4 @@
-[Item Modifier (XXXX: ID, YY: Amount) (IDs EN: https://goo.gl/VBAwyB, IDs ES: https://goo.gl/igh7bw)]
+[Item Modifier (XXXX: ID, YY: Amount) (IDs: https://goo.gl/MjR3SZ)]
 0886XXXX 000000YY
 
 [Money Modifier (English) (XXXXXXX: Money)]
